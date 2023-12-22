@@ -1,4 +1,4 @@
-# Hi, I'm Aadi Kanwar! 👋🏽
+# Hi, I'm Aadi! 👋🏽
 I am a first year student at the University of British Columbia, hoping to bridge the gap between the fields of Mathematics and Computer Science. 
 
 ## My Current Interests 
