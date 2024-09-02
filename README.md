@@ -1,5 +1,5 @@
 # Hi, I'm Aadi! 👋🏽
-I am a first year student at the University of British Columbia, actively bridging the gap between mathematics, statistics, and computer science. 
+I am a second year student at the University of British Columbia, actively bridging the gap between mathematics, statistics, and computer science. 
 
 ## My Current Interests 
 - I am currently interested in concepts of Machine Learning and Statistics, namely implementing classifiers in R and Python
